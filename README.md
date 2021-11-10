@@ -10,7 +10,7 @@
 
   A robust permanent assembly, that connects to the GPIO pins of a 38 pin ESP32 module, can be created by soldering a set of components into a custom Printed Circuit Board (PCB v3.0). The module design, as shown above, includes a number of on-board devices that can be controlled by the ESP32 (e.g. buzzer, LEDs, etc.), but also allows a wide range of further components to be connected to the PCB enabling more ESP32 controlled systems to be explored.
 
-<img src="images/ESPESP32_kits_PCB03_front01_900w.jpg" width="217" height="180"> &nbsp; &nbsp; <img src="images/ESP32_PCB03_20211109_113014124_900w.jpg" width="204" height="180"> &nbsp; &nbsp; <img src="images/ESP32_PCB03_20211109_113130107_900w.jpg" width="209" height="180"> 
+<img src="images/ESP32_kits_PCB03_front01_900w.jpg" width="217" height="180"> &nbsp; &nbsp; <img src="images/ESP32_PCB03_20211109_113014124_900w.jpg" width="204" height="180"> &nbsp; &nbsp; <img src="images/ESP32_PCB03_20211109_113130107_900w.jpg" width="209" height="180"> 
 
 The custom PCB (now at v3.0) was designed using KiCAD and the Kit has been defined to provide all the components needed to build a fully populated module.
 
