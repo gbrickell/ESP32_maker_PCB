@@ -1,4 +1,4 @@
-// ESP32_HelloServer.ino  basic web server test roution for the ESP32 Maker Kit
+// ESP32_ebasicsServer.ino  web server to operate some of the ESP32 Maker Kit's electronics
 
 //  code developed and compiled using the Arduino IDE v1.8.13
 //  ESP32 Dev Module set as the Board in the IDE - using board version 1.0.4
