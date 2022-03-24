@@ -14,6 +14,6 @@
 
 The custom PCB (now at v3.0) was designed using KiCAD and the Kit has been defined to provide all the components needed to build a fully populated module.
 
-Full details about the project are published at <a href="https://onlinedevices.co.uk/ESP32+Maker+Kit" target="_blank" >this link</a> and the designs for a small number of associated custom 3D printed components will be available for download from the Prusa web site in due course.
+Full details about the project are published at <a href="https://onlinedevices.co.uk/ESP32+Maker+Kit" target="_blank" >this link</a> and the designs for a small number of associated custom 3D printed components can be downloaded from the Prusa web site <a href="https://www.prusaprinters.org/prints/87023-esp32-maker-kit-pcb-stands" target="_blank" >here</a>.
 
 All the example code was developed using the Arduino IDE and various standard/readily available libraries. Of particular note is the use of the TFT_eSPI library for use with SPI displays, where a Customs_Setup folder is provided which should be added to the display library folder along with a User_Setup_Select.h file, also added to the library folder, which provides the custom path references.
