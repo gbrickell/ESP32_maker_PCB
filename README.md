@@ -3,6 +3,7 @@
  - basic electronic functions
  - LCD, OLED and LED displays
  - servo, stepper and drive motor control
+ - SPIFFS and SD card reader storage
  - various sensors, and
  - web server set ups to control Kit connected items from a browser
 
